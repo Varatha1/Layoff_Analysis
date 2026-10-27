@@ -55,7 +55,7 @@ File: [`layoff_project.pbix`](layoff_project.pbix)
 - Interactive dashboard built on the cleaned dataset
 
 ## Key Insights
-- Others had the highest total layoffs, followed by Retail
+- Industry "Others" had the highest total layoffs 117.86K, followed by Retail 109.96K
 - Layoffs peaked in Quarterly 1 with 0.34M employees affected
 - Post-IPO companies were hit hardest, with 592.03K total layoffs
 - Amazon had the single largest layoff event, with 592k employees
